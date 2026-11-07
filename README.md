@@ -6,7 +6,7 @@ A small but production-like frontend demo showcasing real-time data updates via 
 
 **Live Demo:** [https://turb-c14abb.web.app/](https://turb-c14abb.web.app/)
 
-This project is a React application built with TypeScript and Webpack 5. It uses Tailwind CSS for styling and Recharts for data visualization. A simulated WebSocket server runs entirely on the client side to demonstrate real-time data flow without requiring a complex backend setup.
+This project is a React application built with TypeScript and Webpack 5. It uses Tailwind CSS for styling and Recharts for data visualization. Prices tick every two seconds inside the browser. There is no server, socket, or database behind the page.
 
 ## Architecture & Engineering Practices
 
